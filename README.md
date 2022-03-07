@@ -2,4 +2,4 @@
 
 **Note: In process**
 
-This project compares the use of traditional econometric methods, such as the vector autoregressive model (VAR), with machine learning models to forecast inflation in Ecuador. For this purpose, a database containing macroeconomic and financial variables is used.
+This project compares the use of traditional econometric methods, such as the vector autoregressive model (VAR), with machine learning models to forecast inflation in Ecuador. For this purpose, I use a database that contains macroeconomic and financial variables.
